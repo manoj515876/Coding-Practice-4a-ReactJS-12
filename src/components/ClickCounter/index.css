@@ -1,0 +1,32 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+.para {
+  color: #2d3a35;
+  font-family: Roboto;
+}
+
+.counter {
+  color: #c20a72;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 4px;
+  font-family: Roboto;
+  border-width: 0px;
+  padding: 8px;
+}
